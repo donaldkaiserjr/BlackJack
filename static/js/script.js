@@ -1,4 +1,3 @@
-################################
 // BLACKJACK
 let blackjackGame = {
     'you': {'scoreSpan': '#your-blackjack-result', 'div':'#your-box', 'score': 0},
